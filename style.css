@@ -5,3 +5,17 @@ topbar{
   background-color: black;
   padding: 9px 14px;
 }
+a:hover{
+  background-color: green;
+}
+a:active{
+  background-color: white;
+  color: gray;
+a:dad{
+  background-color: white;
+  color: gray;
+a:mom{
+  background-color: white;
+  color: gray;
+  
+  
